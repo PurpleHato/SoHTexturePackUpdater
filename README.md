@@ -15,7 +15,7 @@ Official Discord: https://discord.com/invite/shipofharkinia
 
 1. Before using this tool, make sure you can run PowerShell scripts on your computer. If you're not already set up for PowerShell, you can find resources online to help you get started.
 
-2. * [**retro - OTR generator**](https://github.com/HarbourMasters64/retro)
+2. [**retro - OTR generator**](https://github.com/HarbourMasters64/retro)
 
 ## Getting Started
 
@@ -27,5 +27,6 @@ Official Discord: https://discord.com/invite/shipofharkinia
 
 4. **Important Note:** Make sure not to include the `manifest.json` file when copying the updated textures. This file is specific to the Retro and should not be included in your updated texture pack.
 
-With this tool, updating your Ship of Harkinian Texture Pack to the latest versions is a breeze, and you can enjoy a smoother and more consistent experience across different ROM versions. Happy texturing!
+With this tool, updating your Ship of Harkinian Texture Pack to the latest versions is a breeze, and you can enjoy a smoother and more consistent experience across different ROM versions.
+Happy texturing!
 
